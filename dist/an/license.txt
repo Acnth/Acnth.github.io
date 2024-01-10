@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kit Caja Distribuidora de Fibra Óptica Extraíble
+* source:	https://sketchfab.com/3d-models/kit-caja-distribuidora-de-fibra-optica-extraible-55baf597442343b195e22e47eb075cf2
+* author:	OPENETICS (https://sketchfab.com/openetics)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kit Caja Distribuidora de Fibra Óptica Extraíble" (https://sketchfab.com/3d-models/kit-caja-distribuidora-de-fibra-optica-extraible-55baf597442343b195e22e47eb075cf2) by OPENETICS (https://sketchfab.com/openetics) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
